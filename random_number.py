@@ -16,5 +16,6 @@ while True:
    elif guess > number:
        print("Too high! Try again.")
    else:
-       print(f"Congratulations! You guessed it in {attempts} tries.")
+       print(f"Congratulations! You guessed it in {attempts} tries.")
        break
+   
